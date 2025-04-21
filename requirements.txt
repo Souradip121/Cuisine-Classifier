@@ -1,0 +1,4 @@
+gradio
+fastai==2.7.19
+duckduckgo-search 
+fastdownload
